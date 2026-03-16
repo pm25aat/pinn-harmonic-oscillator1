@@ -14,4 +14,4 @@ Traditional Neural Networks are often "black boxes" that ignore physical constra
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/pinn-harmonic-oscillator.git](https://github.com/yourusername/pinn-harmonic-oscillator.git)
+   git clone [https://github.com/pm25aat/pinn-harmonic-oscillator1.git](https://github.com/pm25aat/pinn-harmonic-oscillator1.git)
