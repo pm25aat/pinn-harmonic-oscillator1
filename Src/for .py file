@@ -2,7 +2,7 @@
 ├── figures/            # Saved tutorial plots (accessible versions)
 ├── models/             # Saved model weights (.pth)
 ├── notebooks/
-│   └── PINN_Tutorial.ipynb
+│   └── Harmonic_osc.ipynb
 ├── src/
 │   ├── physics_engine.py # ODE solver
 │   └── model.py         # PINN Class
