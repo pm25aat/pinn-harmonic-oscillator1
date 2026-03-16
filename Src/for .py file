@@ -1,1 +1,11 @@
-
+├── data/               # Generated synthetic data
+├── figures/            # Saved tutorial plots (accessible versions)
+├── models/             # Saved model weights (.pth)
+├── notebooks/
+│   └── PINN_Tutorial.ipynb
+├── src/
+│   ├── physics_engine.py # ODE solver
+│   └── model.py         # PINN Class
+├── README.md           # Documentation
+├── requirements.txt    # Dependencies
+└── LICENSE             # MIT License
